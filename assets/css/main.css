@@ -78,6 +78,7 @@ body {
 }
 .content{
     display: flex;
+    margin: 0px auto;
     gap: 20px;
     width: 90%;
 }
